@@ -1,5 +1,4 @@
 const flagsElement = document.getElementById("flags");
-
 const textsToChange = document.querySelectorAll("[data-section]");
 
 const changeLanguage = async (language) => {

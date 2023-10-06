@@ -1,6 +1,6 @@
 # Italian-Restaurant
 
-<--------------------------------------->
+<------------------------------------------------------------------------------>
 
 Web Page example for a Italian Restaurant
 
@@ -47,7 +47,7 @@ Pending: ❌
         Use of a weather API for the dates to reserve
     </li>
     <li>
-        BDD implementation (NOSQL possible)
+        DB implementation (NOSQL possible)
     </li>
     <li>
         Be able to generate reservations
@@ -55,9 +55,12 @@ Pending: ❌
     <li>
         Dropdown menú for languages selection
     </li>
+    <li>
+        Implementation of Local Storage
+    </li>
 </ul>
 
-<--------------------------------------->
+<------------------------------------------------------------------------------>
 
 Pagina Web de ejemplo de un Restaurante Italiano
 
@@ -112,6 +115,12 @@ Pendientes: ❌
     <li>
         Menú desplegable para seleccionar los idiomas
     </li>
+    <li>
+        Menú desplegable para seleccionar los idiomas
+    </li>
+    <li>
+        Implementación del Local Storage
+    </li>
 </ul>
 
-<--------------------------------------->
+<------------------------------------------------------------------------------>
