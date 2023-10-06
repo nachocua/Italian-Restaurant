@@ -1,0 +1,18 @@
+{
+   "Section Main": {
+      "title": "Passion for Italian cuisine!",
+      "button": "Reserve now"
+   },
+   "FeatureBlock_1": {
+      "block_1-title": "Artisanal essence",
+      "block_1-parraf": "Discover our artisanal Italian gastronomic experience Authentic flavors and passion in each dish, in a cozy atmosphere."
+   },
+   "FeatureBlock_2": {
+      "block_2-title": "Traditional flavor",
+      "block_2-parraf": "Traditional flavors that tell stories, carefully selected ingredients. Immerse yourself in authentic, artisanal Italian cuisine that delights your senses."
+   },
+   "FeatureBlock_3": {
+      "block_3-title": "Fresh Ingredients",
+      "block_3-parraf": "Enjoy the freshness and quality of ingredients in each culinary creation of our restaurant."
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "Section Main": {
+      "title": "¡Pasión por la cocina Italiana!",
+      "button": "Reserva ahora"
+   },
+   "FeatureBlock_1": {
+      "block_1-title": "Esencia artesanal",
+      "block_1-parraf": "Descubre nuestra experiencia gastronómica italiana artesanal Sabores auténticos y pasión en cada plato, en un ambiente acogedor."
+   },
+   "FeatureBlock_2": {
+      "block_2-title": "Sabor tradicional",
+      "block_2-parraf": "Sabores tradicionales que cuentan historias, ingredientes cuidadosamente seleccionados. Sumérgete en la auténtica cocina italiana artesanal que deleita tus sentidos."
+   },
+   "FeatureBlock_3": {
+      "block_3-title": "Ingredientes Frescos",
+      "block_3-parraf": "Disfruta de la frescura y calidad de ingredientes en cada creación culinaria de nuestro restaurante."
+   }
+}

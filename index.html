@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Document</title>
+      <link rel="stylesheet" href="styles/style.css" />
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+         href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap"
+         rel="stylesheet"
+      />
+      <link
+         href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Montserrat:ital,wght@1,100&display=swap"
+         rel="stylesheet"
+      />
+   </head>
+   <body>
+      <header>
+         <nav class="navbar">
+            <div class="brand">
+               <img src="assets/logo_text.png" alt="logo de Il Materello" />
+            </div>
+            <div class="switches">
+               <div id="flags" class="flags">
+                  <div class="flag-item" data-language="es">
+                     <img
+                        class="flags-img"
+                        src="assets/icons/spain.png"
+                        alt="esp logo"
+                     />
+                  </div>
+                  <div class="flag-item" data-language="en">
+                     <img
+                        class="flags-img"
+                        src="assets/icons/united-states.png"
+                        alt="usa logo"
+                     />
+                  </div>
+               </div>
+            </div>
+            <div class="actions">
+               <span class="burger-menu-line1"></span>
+               <span class="burger-menu-line2"></span>
+               <span class="burger-menu-line3"></span>
+            </div>
+         </nav>
+      </header>
+      <main>
+         <section class="hero">
+            <img class="left-floating" src="assets/hero_left.png" alt="" />
+            <img class="right-floating" src="assets/hero_right.png" alt="" />
+            <div class="plate-wrapper">
+               <img class="logo-bar" src="assets/bar_logo.png" alt="" />
+               <img class="plate" src="assets/plate.png" alt="" />
+               <div class="plate-circle"></div>
+            </div>
+            <div class="hero-content">
+               <h2
+                  class="hero-title text-serif"
+                  data-section="Section Main"
+                  data-value="title"
+               >
+                  ¡Pasión por la cocina Italiana!
+               </h2>
+               <button
+                  id="reservaBtn"
+                  class="hero-button"
+                  data-section="Section Main"
+                  data-value="button"
+               >
+                  Reserva ahora
+               </button>
+               <form action="onClick">hola</form>
+            </div>
+         </section>
+         <section class="features">
+            <div class="features-wrapper">
+               <div class="feature">
+                  <h4
+                     id="h4_1-onFeature"
+                     class="text-serif feature-title"
+                     data-section="FeatureBlock_1"
+                     data-value="block_1-title"
+                  >
+                     Esencia artesanal
+                  </h4>
+                  <p
+                     id="p1-onFeature"
+                     data-section="FeatureBlock_1"
+                     data-value="block_1-parraf"
+                  >
+                     Descubre nuestra experiencia gastronómica italiana
+                     artesanal Sabores auténticos y pasión en cada plato, en un
+                     ambiente acogedor
+                  </p>
+                  <img src="assets/image1.jpg" alt="" />
+               </div>
+               <div class="feature">
+                  <h4
+                     id="h4_1-onFeature"
+                     class="text-serif feature-title"
+                     data-section="FeatureBlock_2"
+                     data-value="block_2-title"
+                  >
+                     Sabor tradicional
+                  </h4>
+                  <p
+                     id="p2-onFeature"
+                     data-section="FeatureBlock_2"
+                     data-value="block_2-parraf"
+                  >
+                     Sabores tradicionales que cuentan historias, ingredientes
+                     cuidadosamente seleccionados. Sumérgete en la auténtica
+                     cocina italiana artesanal que deleita tus sentidos.
+                  </p>
+                  <img src="assets/image2.jpg" alt="" />
+               </div>
+               <div class="feature">
+                  <h4
+                     id="h4_1-onFeature"
+                     class="text-serif feature-title"
+                     data-section="FeatureBlock_3"
+                     data-value="block_3-title"
+                  >
+                     Ingredientes Frescos
+                  </h4>
+                  <p
+                     id="p3-onFeature"
+                     data-section="FeatureBlock_3"
+                     data-value="block_3-parraf"
+                  >
+                     Disfruta de la frescura y calidad de ingredientes en cada
+                     creación culinaria de nuestro restaurante.
+                  </p>
+                  <img src="assets/image3.jpg" alt="" />
+               </div>
+            </div>
+         </section>
+      </main>
+      <footer class="footer">
+         <img src="assets/cheese_footer.png" class="footer-floating" alt="" />
+         <div class="footer-circle"></div>
+         <div class="logo-footer">
+            <img src="assets/logo_footer.png" alt="" />
+         </div>
+         <div class="links">
+            <ul>
+               <li><a href="/carta">Carta</a></li>
+               <li><a href="/contacto">Contacto</a></li>
+               <li><a href="/direccion">Dirección</a></li>
+            </ul>
+         </div>
+         <div class="copyright">
+            <p class="brand-copy">® copyright 2023 - Il Matterello</p>
+            <p>Developed by J. Ignacio Cuatrin</p>
+         </div>
+      </footer>
+      <script src="Scripts/index.js"></script>
+      <script src="Scripts/languaje.js"></script>
+   </body>
+</html>
