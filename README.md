@@ -6,6 +6,23 @@ Web Page example for a Italian Restaurant
 
 It's a page for studying proposes.
 
+Used technology: 🖥
+
+<ul>
+    <li>
+        HTML 
+    </li>
+    <li>
+        CSS
+    </li>
+    <li>
+        JS
+    </li>
+    <li>
+        Json
+    </li>
+</ul>
+
 Finished: ✔️
 
 <ul>
@@ -45,6 +62,23 @@ Pending: ❌
 Pagina Web de ejemplo de un Restaurante Italiano
 
 Es una página realizada con fineseducativos.
+
+Tecnologías Utilizadas: 🖥
+
+<ul>
+    <li>
+        HTML 
+    </li>
+    <li>
+        CSS
+    </li>
+    <li>
+        JS
+    </li>
+    <li>
+        Json
+    </li>
+</ul>
 
 Completados: ✔️
 

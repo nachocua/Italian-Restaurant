@@ -33,6 +33,7 @@
    opacity: 0;
    margin-left: -30px;
 }
+
 .active-burger-menu-line3 {
    transform: rotate(-45deg);
 }
@@ -44,11 +45,6 @@
    align-items: center;
    justify-content: space-between;
 }
-/*
-.flags-item {
-   width: 30px;
-}
-*/
 
 .flags-img {
    width: 30px;
