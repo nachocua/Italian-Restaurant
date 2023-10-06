@@ -35,6 +35,9 @@ Pending: ❌
     <li>
         Be able to generate reservations
     </li>
+    <li>
+        Dropdown menú for languages selection
+    </li>
 </ul>
 
 <--------------------------------------->
@@ -71,6 +74,9 @@ Pendientes: ❌
     </li>
     <li>
         Poder generar reservas
+    </li>
+    <li>
+        Menú desplegable para seleccionar los idiomas
     </li>
 </ul>
 
