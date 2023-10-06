@@ -1,6 +1,5 @@
-# Italian-Restaurant
+<h1 align="center">Italian-Restaurant</h1> 
 
-<------------------------------------------------------------------------------>
 
 Web Page example for a Italian Restaurant
 
@@ -10,16 +9,19 @@ Used technology: 🖥
 
 <ul>
     <li>
-        HTML 
+        HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </li>
     <li>
-        CSS
+        CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </li>
     <li>
-        JS
+        JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </li>
     <li>
-        Json
+        Json <img src="https://www.json.org/img/json160.gif" alt="Json" width="40" height="40"/>
+    </li>
+    <li>
+        Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </li>
 </ul>
 
@@ -60,7 +62,7 @@ Pending: ❌
     </li>
 </ul>
 
-<------------------------------------------------------------------------------>
+<hr>
 
 Pagina Web de ejemplo de un Restaurante Italiano
 
@@ -70,16 +72,19 @@ Tecnologías Utilizadas: 🖥
 
 <ul>
     <li>
-        HTML 
+        HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </li>
     <li>
-        CSS
+        CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </li>
     <li>
-        JS
+        JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </li>
     <li>
-        Json
+        Json <img src="https://www.json.org/img/json160.gif" alt="Json" width="40" height="40"/>
+    </li>
+    <li>
+        Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </li>
 </ul>
 
@@ -123,4 +128,4 @@ Pendientes: ❌
     </li>
 </ul>
 
-<------------------------------------------------------------------------------>
+<hr>
