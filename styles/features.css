@@ -14,6 +14,7 @@
 }
 
 .feature > p {
+   font-weight: bold;
    padding: 1rem 0;
 }
 
@@ -29,8 +30,7 @@
    font-size: 2rem;
 }
 
-@media (width > 768px) 
-{
+@media (width > 768px) {
    .features-wrapper {
       flex-direction: row;
       gap: 1rem;
